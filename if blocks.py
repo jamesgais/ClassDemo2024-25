@@ -6,13 +6,8 @@ if '9' not in var:
 else: 
     print("its not in there")
 
-
 if var is "9":
     print("Hellow")
-
-
-
-
 
 
 name = "bo"
